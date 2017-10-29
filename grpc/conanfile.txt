@@ -1,0 +1,6 @@
+[requires]
+gRPC/1.1.0@inexorgame/stable
+
+[generators]
+cmake
+
