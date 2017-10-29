@@ -1,0 +1,9 @@
+[requires]
+Boost.Regex/1.65.1@bincrafters/stable
+
+[options]
+Boost:shared=False
+
+[generators]
+cmake
+
