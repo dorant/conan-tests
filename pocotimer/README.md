@@ -1,8 +1,4 @@
-# Test of building Boost::Regex
-
-## Add new remote to conan:
-
-    conan remote add inexor https://api.bintray.com/conan/inexorgame/inexor-conan
+# Test of building Poco::Timer
 
 ## Build:
 
@@ -16,7 +12,6 @@
     cmake ..
     make
 
+## Run:
 
-
-
-
+    bin/timer
