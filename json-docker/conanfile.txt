@@ -1,0 +1,8 @@
+[requires]
+RapidJSON/1.1.0@Brunni/stable
+
+[options]
+
+[generators]
+cmake
+
